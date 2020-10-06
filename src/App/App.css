@@ -1,0 +1,15 @@
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background: #FFFFFF;
+}
+
+
+/* Bootstrap form-control start */
+
+.form-control:focus,
+.form-control:active {
+  border-color: #343A40;
+  box-shadow: 0 0 0 .1rem rgba(20.4, 22.7, 25.1, .25);
+}
+
+/* Bootstrap form-control end */
